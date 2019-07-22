@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/14afc5d8b531761c8b9c7634d77860f0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/apple/.gradle/caches/transforms-2/files-2.1/dc4abb12bd93f2a8cca67aed5c54200b/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/ee70791efe2741925f3fe96742472954/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/daccf00a462a70dee6de2da6973933ce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/0e7fa422a6ed31881281d84055d56e1b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/1837837b0873d51c62ddef1c11d4a9bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/71a7c38677b0ec8156cf157666941ad7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/7fe1761110260516df1db492ae97cfe1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/6d4a38e70a707439fcf51b306db99e9e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/63426f1b9db69634cd197c74a4e9dcc7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/ae4c8bf518288b29d24101640cf39a13/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f39e8eb159ff7de55c3bd6264af04103/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/968b29c48de359b12f846ead896e6662/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/a440fa080115f79a9e75c4454faff19a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/b94c90075e71c2df361aa3324e4d5595/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/c2976d0349108efd3a256ec54a08a885/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/33d8cf552a58f57481fa98cc52b4692e/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/3721ccd08188b788249593402647dc0d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/d38a7b2d8b9beb12f373f94c66be9899/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/d967ae9b5a04cc42fe565654ff3c6911/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/978421a2a51c9581d39c5dc8e5c5f561/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/bea7ebb56a9fe162d22f47e78bed547f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/b463c62817694b23d08a4903935ae46f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5fc8f9831b4c524b14aba25d8a3e3a23/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/3701dbe35f1b77f92448a0f483490c45/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/67e1f1cc907930ded0715610395c0cae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/4f4de6c55cd06ab20dc929b6e215a6b9/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/apple/.gradle/caches/transforms-2/files-2.1/dc4abb12bd93f2a8cca67aed5c54200b/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/apple/.gradle/caches/transforms-2/files-2.1/dc4abb12bd93f2a8cca67aed5c54200b/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/c2976d0349108efd3a256ec54a08a885/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/c2976d0349108efd3a256ec54a08a885/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/33d8cf552a58f57481fa98cc52b4692e/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/33d8cf552a58f57481fa98cc52b4692e/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/c2976d0349108efd3a256ec54a08a885/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.sh.toasterexample.MainActivity
+ADDED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/14afc5d8b531761c8b9c7634d77860f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/14afc5d8b531761c8b9c7634d77860f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/apple/.gradle/caches/transforms-2/files-2.1/dc4abb12bd93f2a8cca67aed5c54200b/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/apple/.gradle/caches/transforms-2/files-2.1/dc4abb12bd93f2a8cca67aed5c54200b/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/ee70791efe2741925f3fe96742472954/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/ee70791efe2741925f3fe96742472954/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/daccf00a462a70dee6de2da6973933ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/daccf00a462a70dee6de2da6973933ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/0e7fa422a6ed31881281d84055d56e1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/0e7fa422a6ed31881281d84055d56e1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/1837837b0873d51c62ddef1c11d4a9bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/1837837b0873d51c62ddef1c11d4a9bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/71a7c38677b0ec8156cf157666941ad7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/71a7c38677b0ec8156cf157666941ad7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/7fe1761110260516df1db492ae97cfe1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/7fe1761110260516df1db492ae97cfe1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/6d4a38e70a707439fcf51b306db99e9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/6d4a38e70a707439fcf51b306db99e9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/63426f1b9db69634cd197c74a4e9dcc7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/63426f1b9db69634cd197c74a4e9dcc7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/ae4c8bf518288b29d24101640cf39a13/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/ae4c8bf518288b29d24101640cf39a13/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f39e8eb159ff7de55c3bd6264af04103/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f39e8eb159ff7de55c3bd6264af04103/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/968b29c48de359b12f846ead896e6662/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/968b29c48de359b12f846ead896e6662/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/a440fa080115f79a9e75c4454faff19a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/a440fa080115f79a9e75c4454faff19a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/b94c90075e71c2df361aa3324e4d5595/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/b94c90075e71c2df361aa3324e4d5595/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/c2976d0349108efd3a256ec54a08a885/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/c2976d0349108efd3a256ec54a08a885/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/33d8cf552a58f57481fa98cc52b4692e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/33d8cf552a58f57481fa98cc52b4692e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/3721ccd08188b788249593402647dc0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/3721ccd08188b788249593402647dc0d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/d38a7b2d8b9beb12f373f94c66be9899/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/d38a7b2d8b9beb12f373f94c66be9899/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/d967ae9b5a04cc42fe565654ff3c6911/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/d967ae9b5a04cc42fe565654ff3c6911/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/978421a2a51c9581d39c5dc8e5c5f561/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/978421a2a51c9581d39c5dc8e5c5f561/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/bea7ebb56a9fe162d22f47e78bed547f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/bea7ebb56a9fe162d22f47e78bed547f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/b463c62817694b23d08a4903935ae46f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/b463c62817694b23d08a4903935ae46f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5fc8f9831b4c524b14aba25d8a3e3a23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5fc8f9831b4c524b14aba25d8a3e3a23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/3701dbe35f1b77f92448a0f483490c45/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/3701dbe35f1b77f92448a0f483490c45/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/67e1f1cc907930ded0715610395c0cae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/67e1f1cc907930ded0715610395c0cae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/4f4de6c55cd06ab20dc929b6e215a6b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/4f4de6c55cd06ab20dc929b6e215a6b9/AndroidManifest.xml:20:5-44
+INJECTED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/Sherin/Android/sample/Toaster/app/src/main/AndroidManifest.xml
